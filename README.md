@@ -1,3 +1,3 @@
 # w1-lab-YOURTEAM
 
-FIRSTNAME, FIRSTNAME
+Yoomyung Jhe, Michael Jelderian
